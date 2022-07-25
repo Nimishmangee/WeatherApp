@@ -15,5 +15,7 @@
 
 A beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
+![IMG_DD3CD0683630-1](https://user-images.githubusercontent.com/82581324/180722163-5bc8cf8d-c943-4088-9e2d-1f938b5eba71.jpeg)
+
 
 ![End Banner](Documentation/readme-end-banner.png)
