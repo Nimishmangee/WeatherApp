@@ -1,4 +1,7 @@
-#  Clima
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82581324/180708967-1dcd3788-fa47-498b-887f-129b4bd26925.png" alt="Icon"/>
+</p>
+<H1 align="center">Clima-iOS</H1>
 
 ## Our Goal
 
@@ -24,25 +27,5 @@ By the end of the module, you will have made a beautiful, dark-mode enabled weat
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
 
-### Condition Codes
-```
-switch conditionID {
-        case 200...232:
-            return "cloud.bolt"
-        case 300...321:
-            return "cloud.drizzle"
-        case 500...531:
-            return "cloud.rain"
-        case 600...622:
-            return "cloud.snow"
-        case 701...781:
-            return "cloud.fog"
-        case 800:
-            return "sun.max"
-        case 801...804:
-            return "cloud.bolt"
-        default:
-            return "cloud"
-        }
-```
+
 ![End Banner](Documentation/readme-end-banner.png)
